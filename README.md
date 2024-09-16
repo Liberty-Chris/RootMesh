@@ -62,8 +62,15 @@ Up to 6 capacitive soil moisture sensors (analog inputs)
 
 ## REQUIRED Libraries:  
 You'll need to install the following libraries:  
-DHT for the DHT22 sensor  
-OneWire and DallasTemperature for the DS18B20 sensor    
-You can install these libraries via the Arduino IDE Library Manager.
+
+DHT for the DHT22 sensor:
+https://www.arduino.cc/reference/en/libraries/dht-sensor-library/  
+
+OneWire and DallasTemperature for the DS18B20 sensor:
+https://www.arduino.cc/reference/en/libraries/onewire/
+https://www.arduino.cc/reference/en/libraries/dallastemperature/
+   
+You can install these libraries via the Arduino IDE Library Manager:
+https://www.arduino.cc/reference/en/libraries/
 
 ### Additional Notes: TBD
