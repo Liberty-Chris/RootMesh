@@ -1,5 +1,5 @@
-# LGUF_IoT
-Code + documentation for Living Green Urban Farms IoT agricultural automation. There are three versions of this platform. 
+# RootMesh
+Code + documentation for RootMesh IoT agricultural automation. There are currently three versions of this platform. 
 
 Version A) Collection, storage and transmission of data from all sensors.
 
@@ -73,4 +73,4 @@ https://www.arduino.cc/reference/en/libraries/dallastemperature/
 You can install these libraries via the Arduino IDE Library Manager:
 https://www.arduino.cc/reference/en/libraries/
 
-### Additional Notes: TBD
+### Additional Notes: Implement a mesh network planform (2.4ghz or 915mhz)
