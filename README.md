@@ -74,6 +74,9 @@ You can install these libraries via the Arduino IDE Library Manager:
 https://www.arduino.cc/reference/en/libraries/
 
 ### Additional Notes: 
+
 Implement a mesh network planform (2.4ghz or 915mhz)
+
 Thresholds>Notifications>Alarms configurable
+
 Integrate into Home Assistant
